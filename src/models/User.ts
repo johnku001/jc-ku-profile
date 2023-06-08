@@ -1,4 +1,4 @@
-import { TimelineData } from '../components/timeline';
+import { TimelineData } from './TimelineData';
 
 export interface User {
   name: string;

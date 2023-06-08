@@ -1,16 +1,6 @@
+import { TimelineData } from '@/models/TimelineData';
 import React from 'react';
 import { BsCircleFill } from 'react-icons/bs';
-
-export interface TimelineData {
-  startYear: string;
-  startMonth: string;
-  endYear: string;
-  endMonth: string;
-  title: string;
-  organizationName: string;
-  organizationWebsiteURL?: string;
-  descriptionArray: string[];
-}
 
 interface TimelineProps {
   timelineData: TimelineData[];
