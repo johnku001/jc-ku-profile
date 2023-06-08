@@ -1,0 +1,183 @@
+{
+  "name": "JC KU",
+  "currentPost": "Full Stack Developer",
+  "email": "test@test.com",
+  "phone": "+123232342342342",
+  "resume": "/files/resume.pdf",
+  "website": "",
+  "github": "https://github.com",
+  "linkedin": "https://www.linkedin.com/",
+  "imageUrl": "/images/profile-pic.jpg",
+  "personalStatement": "Society excited by cottage private an it esteems. Fully begin on by wound an. Girl rich in do up or both. At declared in as rejoiced of together. He impression collecting delightful unpleasant by prosperous as on. End too talent she object mrs wanted remove giving.",
+  "skills": {
+    "programmingLanguages": [
+      "Javascript",
+      "Python",
+      "Go",
+      "Java",
+      "Kotlin",
+      "PHP",
+      "C#",
+      "Swift",
+      "R",
+      "Ruby",
+      "C and C++",
+      "Matlab",
+      "TypeScript",
+      "Scala",
+      "SQL",
+      "HTML",
+      "CSS",
+      "NoSQL",
+      "Rust",
+      "Perl"
+    ],
+    "frameworksAndTools": [
+      "React",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Ruby on Rails",
+      "MongoDB",
+      "Redis",
+      "Docker/Kubernetes",
+      "gRPC",
+      "Git",
+      "Django",
+      "Loki",
+      "Terraform",
+      "Helm",
+      "Argo Workflow",
+      "Prometheus",
+      "AWS",
+      "GitHub",
+      "HealthCheck.io",
+      "Vue.js"
+    ]
+  },
+  "workExperience": [
+    {
+      "startYear": "2022",
+      "startMonth": "Jul",
+      "endYear": "2023",
+      "endMonth": "Jul",
+      "title": "Full Stack Developer",
+      "organizationName": "XXXX Limited",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": [
+        "Attention he extremity unwilling on otherwise. Conviction up partiality as delightful is discovered. Yet jennings resolved disposed exertion you off. Left did fond drew fat head poor. So if he into shot half many long. China fully him every fat was world grave.",
+        "To they four in love. Settling you has separate supplied bed. Concluded resembled suspected his resources curiosity joy. Led all cottage met enabled attempt through talking delight. Dare he feet my tell busy. Considered imprudence of he friendship boisterous.",
+        "Old unsatiable our now but considered travelling impression. In excuse hardly summer in basket misery. By rent an part need. At wrong of of water those linen. Needed oppose seemed how all. Very mrs shed shew gave you. Oh shutters do removing reserved wandered an. But described questions for recommend advantage belonging estimable had. Pianoforte reasonable as so am inhabiting. Chatty design remark and his abroad figure but its.",
+        "Her old collecting she considered discovered. So at parties he warrant oh staying. Square new horses and put better end. Sincerity collected happiness do is contented. Sigh ever way now many. Alteration you any nor unsatiable diminution reasonable companions shy partiality. Leaf by left deal mile oh if easy. Added woman first get led joy not early jokes."
+      ]
+    },
+    {
+      "startYear": "2021",
+      "startMonth": "Aug",
+      "endYear": "2022",
+      "endMonth": "Jul",
+      "title": "Developer",
+      "organizationName": "YYYY Solutions Ltd",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": [
+        "Attention he extremity unwilling on otherwise. Conviction up partiality as delightful is discovered. Yet jennings resolved disposed exertion you off. Left did fond drew fat head poor. So if he into shot half many long. China fully him every fat was world grave.",
+        "Her old collecting she considered discovered. So at parties he warrant oh staying. Square new horses and put better end. Sincerity collected happiness do is contented. Sigh ever way now many. Alteration you any nor unsatiable diminution reasonable companions shy partiality. Leaf by left deal mile oh if easy. Added woman first get led joy not early jokes."
+      ]
+    },
+    {
+      "startYear": "2020",
+      "startMonth": "Jan",
+      "endYear": "2021",
+      "endMonth": "Apr",
+      "title": "Programmer",
+      "organizationName": "ZZZZ Limited",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": [
+        "To they four in love. Settling you has separate supplied bed. Concluded resembled suspected his resources curiosity joy. Led all cottage met enabled attempt through talking delight. Dare he feet my tell busy. Considered imprudence of he friendship boisterous.",
+        "Old unsatiable our now but considered travelling impression. In excuse hardly summer in basket misery. By rent an part need. At wrong of of water those linen. Needed oppose seemed how all. Very mrs shed shew gave you. Oh shutters do removing reserved wandered an. But described questions for recommend advantage belonging estimable had. Pianoforte reasonable as so am inhabiting. Chatty design remark and his abroad figure but its.",
+        "Her old collecting she considered discovered. So at parties he warrant oh staying. Square new horses and put better end. Sincerity collected happiness do is contented. Sigh ever way now many. Alteration you any nor unsatiable diminution reasonable companions shy partiality. Leaf by left deal mile oh if easy. Added woman first get led joy not early jokes."
+      ]
+    },
+    {
+      "startYear": "2017",
+      "startMonth": "Jun",
+      "endYear": "2019",
+      "endMonth": "Nov",
+      "title": "Programmer",
+      "organizationName": "AAAA Limited",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": [
+        "Attention he extremity unwilling on otherwise. Conviction up partiality as delightful is discovered. Yet jennings resolved disposed exertion you off. Left did fond drew fat head poor. So if he into shot half many long. China fully him every fat was world grave.",
+        "Her old collecting she considered discovered. So at parties he warrant oh staying. Square new horses and put better end. Sincerity collected happiness do is contented. Sigh ever way now many. Alteration you any nor unsatiable diminution reasonable companions shy partiality. Leaf by left deal mile oh if easy. Added woman first get led joy not early jokes."
+      ]
+    },
+    {
+      "startYear": "2016",
+      "startMonth": "Jun",
+      "endYear": "2017",
+      "endMonth": "Jun",
+      "title": "Programmer",
+      "organizationName": "TTTT Limited",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": [
+        "Attention he extremity unwilling on otherwise. Conviction up partiality as delightful is discovered. Yet jennings resolved disposed exertion you off. Left did fond drew fat head poor. So if he into shot half many long. China fully him every fat was world grave."
+      ]
+    },
+    {
+      "startYear": "2010",
+      "startMonth": "Jun",
+      "endYear": "2016",
+      "endMonth": "Jun",
+      "title": "Programmer",
+      "organizationName": "KKKK Limited",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": [
+        "Attention he extremity unwilling on otherwise. Conviction up partiality as delightful is discovered. Yet jennings resolved disposed exertion you off. Left did fond drew fat head poor. So if he into shot half many long. China fully him every fat was world grave.",
+        "To they four in love. Settling you has separate supplied bed. Concluded resembled suspected his resources curiosity joy. Led all cottage met enabled attempt through talking delight. Dare he feet my tell busy. Considered imprudence of he friendship boisterous."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "startYear": "2010",
+      "startMonth": "Sep",
+      "endYear": "2012",
+      "endMonth": "Jul",
+      "title": "Master of Engineering in Computer Engineering",
+      "organizationName": "World University of Science and Technology",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": []
+    },
+    {
+      "startYear": "2008",
+      "startMonth": "Sep",
+      "endYear": "2010",
+      "endMonth": "Jul",
+      "title": "Master of Engineering in Computer Science",
+      "organizationName": "World University of Science and Technology",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": []
+    },
+    {
+      "startYear": "2007",
+      "startMonth": "Sep",
+      "endYear": "2008",
+      "endMonth": "Jul",
+      "title": "Master of Engineering in Data Science",
+      "organizationName": "Asia University of Science and Technology",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": []
+    },
+    {
+      "startYear": "2004",
+      "startMonth": "Sep",
+      "endYear": "2007",
+      "endMonth": "Jul",
+      "title": "Degree in Information System",
+      "organizationName": "America University of Science and Technology",
+      "organizationWebsiteURL": "https://google.com/",
+      "descriptionArray": []
+    }
+  ]
+}
